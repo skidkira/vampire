@@ -104,7 +104,6 @@ section {
 }
 .avatar {
     border-radius: 100%;
-    border: 10px solid #201f1f38;
     object-fit: cover;
     display: block;
     margin-left: auto;
