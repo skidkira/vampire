@@ -194,7 +194,6 @@ section {
     justify-content: flex-start;
     align-items: center;
     transition: transform .3s ease;
-    border: 10px solid #201f1f38;
     font-size: 20px;
     right: 25px;
 }
